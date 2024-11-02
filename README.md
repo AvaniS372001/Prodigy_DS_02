@@ -20,14 +20,13 @@ Visualizations
 - Age Distribution: Visualizes the age distribution of passengers.
 - Survival by Passenger Class: Examines how class affected survival chances.
 
-3. Requirements
+### Requirements
 Python Libraries: Pandas, Seaborn, Matplotlib
 
-4. Dataset
+### Dataset
 The dataset used is the Titanic - Machine Learning from Disaster dataset from Kaggle. It contains information about Titanic passengers, including demographic details, ticket information, and survival status.
-
 Features: Age, Sex, Passenger Class, Embarked Location, etc.
 Target: Survival (0 = No, 1 = Yes)
 
-5. Usage
+### Usage
 Clone the repository and run the provided code to reproduce the analysis and visualizations.
